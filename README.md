@@ -10,7 +10,7 @@ The on-board monitoring device is designed to fulfil two objectives, one is to c
 
 ## Proteus Design
 The circuit diagram for the proposed on-board monitoring system is designed and simulated using Proteus. The Arduino UNO microcontroller is used for the control of the system. 
-<div align="center"><img src="Images/On-board monitoring device implementation using Proteus.jpg" width="500"></div>
+<div align="center"><img src="Images/onboard.gif" width="500"></div>
 
 ## Simulation
 All testing and simulation for the proposed on-board monitoring device is done using Proteus, Arduino IDE, Virtual Serial Port Emulator, Python and XAMPP. To run the simulations - 
