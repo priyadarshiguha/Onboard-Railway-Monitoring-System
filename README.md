@@ -17,6 +17,8 @@ All testing and simulation for the proposed on-board monitoring device is done u
   1. Install XAMPP and start the Apache and the phpMyAdmin servers
   2. Create a new database 'hsr' and import the 'hsr.sql' file
   3. Install VSPE and start a virtual 'COM1' serial port
-  4. Launch the 'script.py' Python script and keep it running in the background
-  5. Open the Proteus design file and start the simulation
-  6. Change the sensor vaules accordingly for different results
+  4. Install Python 3 
+  5. Open the terminal and run the command 'pip3 install -r requirements.txt' to install all the required Python Libraries
+  6. Launch the 'script.py' Python script and keep it running in the background
+  7. Open the Proteus design file and start the simulation
+  8. Change the sensor vaules accordingly for different results
