@@ -13,12 +13,10 @@ The circuit diagram for the proposed on-board monitoring system is designed and 
 <div align="center"><img src="Images/onboard.gif" width="500"></div>
 
 ## Simulation
-All testing and simulation for the proposed on-board monitoring device is done using Proteus, Arduino IDE, Virtual Serial Port Emulator, Python and XAMPP. To run the simulations - 
-<ol>
-  <li>Install XAMPP and start the Apache and the phpMyAdmin servers</li>
-  <li>Create a new database 'hsr' and import the 'hsr.sql' file</li>
-  <li>Install VSPE and start a virtual 'COM1' serial port</li>
-  <li>Launch the 'script.py' Python script and keep it running in the background</li>
-  <li>Open the Proteus design file and start the simulation</li>
-  <li>Change the sensor vaules accordingly for different results</li>
-</ol>
+All testing and simulation for the proposed on-board monitoring device is done using Proteus, Arduino IDE, Virtual Serial Port Emulator, Python and XAMPP. To run the simulations -
+  1. Install XAMPP and start the Apache and the phpMyAdmin servers
+  2. Create a new database 'hsr' and import the 'hsr.sql' file
+  3. Install VSPE and start a virtual 'COM1' serial port
+  4. Launch the 'script.py' Python script and keep it running in the background
+  5. Open the Proteus design file and start the simulation
+  6. Change the sensor vaules accordingly for different results
